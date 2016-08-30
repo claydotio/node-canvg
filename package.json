@@ -25,7 +25,7 @@
 		"url": "https://github.com/yetzt/node-canvg.git"
 	},
 	"dependencies": {
-		"canvas": ">= 1.0.0",
+		"canvas": "git://github.com/chearon/node-canvas.git#prefer-pango",
 		"xmldom": "0.1.x",
 		"rgbcolor": "0.0.x",
 		"stackblur": "0.0.x"
